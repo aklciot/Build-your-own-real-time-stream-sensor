@@ -80,7 +80,7 @@ OneWire oneWire(ONE_WIRE_BUS);            // Setup a oneWire instance to communi
 DallasTemperature sensors(&oneWire);      // Pass our oneWire reference to Dallas Temperature.
 
 //Ultrasonic ultrasonic(10, 11);
-Ultrasonic ultrasonic(10);
+Ultrasonic ultrasonic(10);  //grove 3 wire
 
 
 void setup() {
