@@ -15,6 +15,11 @@ Adafruit_SleepyDog.h
 RH_RF95.h
 Ultrasonic.h
 
+### PLEASE NOTE:
+This sensor is designed to work with the open source LoRa telemetry network and gateway described here:</br>
+https://github.com/aklciot/TTGO-Gateway-repeater
+</br>
+
 ## About this Sensor
 
 ### Who should use this guide:
