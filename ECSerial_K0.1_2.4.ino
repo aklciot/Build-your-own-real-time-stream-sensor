@@ -3,6 +3,7 @@
 // EZO-ECTM Embedded Conductivity Circuit Conductivity = μS/cm
 // Adafruit featherM0 with LoRa RFM95, Dallas 18B20 sensors and sleepydog power management
 // Includes 2X Dallas 18B20 digital Air and Water temperature sensors
+// WD Version 2.4 Published to GitHub
 // WD Version 2.3 Added MOSFET power control and grove ultrasonic sensor and library
 // WD Version 2.2 Added EC K type Calibration to loop
 // WD Version 2.1 Added f_ec = atof(EC); to convert char to float to resolve radio send fault
