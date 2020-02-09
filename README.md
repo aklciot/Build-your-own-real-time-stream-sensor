@@ -31,11 +31,12 @@ Low cost Real-time monitoring is an amazing new capability made possible by a co
 
 ## Why is real time monitoring important?
 
-Streams are very sensitive to weather and pollution events. These events can occur over a very short time, often after a few hours or minutes the event is over. Monthly sampling will miss most important events that occur in your stream. With real time monitoring:
+Streams are very sensitive to weather and pollution events. These events can occur over a very short time, often after a few hours or minutes the event is over. Monthly sampling will miss most important events that occur in your stream.
+With real time monitoring:
 
-<b>Don’t miss events.</b> Things can change fast in a stream, if you’re not there to see it you’ll miss it, the sensor watches 24/7 and creates a continuous record.
-<b>Narrow down the cause.</b> If your stream is monitored at multiple points you can narrow down where and when an event occurred and its possible cause.
-<b>Create positive behaviours.</b> We all change how we behave if we know we’re being watched.  With the stream monitor people become aware that dumping and faults are more likely to be detected.
-<b>See the effect of restoration work.</b>  The sensor creates long term trend data. The improvements made by restoration work can be shown over time.
-<b>You can learn more about your stream and others.</b> Combing your data with the work done by others can lead to new insights previously unavailable.
+<b>Don’t miss events.</b> Things can change fast in a stream, if you’re not there to see it you’ll miss it, the sensor watches 24/7 and creates a continuous record.</br>
+<b>Narrow down the cause.</b> If your stream is monitored at multiple points you can narrow down where and when an event occurred and its possible cause.</br>
+<b>Create positive behaviours.</b> We all change how we behave if we know we’re being watched.  With the stream monitor people become aware that dumping and faults are more likely to be detected.</br>
+<b>See the effect of restoration work.</b>  The sensor creates long term trend data. The improvements made by restoration work can be shown over time.</br>
+<b>You can learn more about your stream and others.</b> Combing your data with the work done by others can lead to new insights previously unavailable.</br>
 
