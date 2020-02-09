@@ -20,7 +20,7 @@
 #include <RH_RF95.h>
 #include "Ultrasonic.h"
 
-char* Nodestr = "STRXXX";  // Node ID
+char* Nodestr = "STRXX";   // Node ID
 #define PWRLOOP 19         // Power down, n X 16sec power down
 
 
