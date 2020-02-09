@@ -1,7 +1,9 @@
+<img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_small.png" align="middle" height="75"/>
+
 # StreamECSensor
 Build your own automated water quality EC sensor
 
-<img src="https://github.com/aklciot/TTGO-Gateway-repeater/blob/master/InnovateAuckland_Medium.png" align="middle" height="75"/>
+
 
 ## Compiling and loading
 This code can be compiled on a standard Arduino GUI.
