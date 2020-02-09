@@ -1,4 +1,4 @@
-<img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_small.png" align="middle" height="75"/>
+<img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_Medium.png" align="middle" height="75"/>
 
 # StreamECSensor
 Build your own automated water quality EC sensor
