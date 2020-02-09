@@ -31,7 +31,7 @@ Some of the concepts in the guide are quite technical, if you’re not sure or n
 We recommend you have access to people familiar with connecting computer peripherals and WiFi settings.
 
 ### What is real-time monitoring?
-Low cost Real-time monitoring is an amazing new capability made possible by a collection of technologies commonly referred to as the internet of things (IOT). Most monitoring techniques involve a regular visit to the monitoring location where recordings are made and recorded manually. These visits can be weeks or months apart.  In real time monitoring, measurements are made automatically every few minutes and the information is immediately processed and stored on the internet creating an up to date, long term and detailed record.
+Low cost Real-time monitoring is an amazing new capability made possible by a collection of technologies commonly referred to as the internet of things (IOT). Most monitoring techniques involve a regular visit to the monitoring location where recordings are made and recorded manually. These visits can be weeks or months apart.  In real time monitoring, measurements are made automatically every few minutes and the information is immediately processed and stored on the internet. This  creates an up to date, long term and detailed record.
 
 ### Why is real time monitoring important?
 
