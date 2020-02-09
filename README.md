@@ -9,11 +9,11 @@ Build your own automated water quality EC sensor
 This code can be compiled on a standard Arduino GUI.
 ### Libraries
 The following libraries are required:
-- OneWire.h connects data for the dallas sensor
-- DallasTemperature.h DS18B20 digital thermometer
-- Adafruit_SleepyDog.h  Power management
-- RH_RF95.h Hope radio LoRa driver
-- Ultrasonic.h driver for the grove ultrasonic sensor
+- OneWire.h (connects data for the dallas sensor)
+- DallasTemperature.h (DS18B20 digital thermometer)
+- Adafruit_SleepyDog.h  (Power management)
+- RH_RF95.h (Hope radio LoRa driver)
+- Ultrasonic.h (driver for the grove ultrasonic sensor)
 
 ### PLEASE NOTE:
 This sensor is designed to work with the open source LoRa telemetry network and gateway described here:</br>
