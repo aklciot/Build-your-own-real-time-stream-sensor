@@ -9,14 +9,13 @@ Build your own automated water quality EC sensor
 This code can be compiled on a standard Arduino GUI.
 ### Libraries
 The following libraries are required:
-- AsyncTCP (can be installed fromzip file in library folder)
-- ESPAsyncWebServer (can be installed from zip file in library folder)
-- EEPROM (can be installed from zip file in library folder) (N.B. This library has been depreciated and should be replaced by Preferences. Raised as [issue #2](https://github.com/aklciot/TTGO-Gateway-repeater/issues/2))
-- Adafruit MQTT
-- ESP8266 and ESP32 OLED driver for SSD1306 displays
-- RH_RF95.h from RadioHead
+OneWire.h
+DallasTemperature.h
+Adafruit_SleepyDog.h
+RH_RF95.h
+Ultrasonic.h
 
-## About this User Guide
+## About this Sensor
 
 ### Who should use this guide:
 
@@ -29,7 +28,7 @@ We recommend you have access to people familiar with connecting computer periphe
 ### What is real-time monitoring?
 Low cost Real-time monitoring is an amazing new capability made possible by a collection of technologies commonly referred to as the internet of things (IOT). Most monitoring techniques involve a regular visit to the monitoring location where recordings are made and recorded manually. These visits can be weeks or months apart.  In real time monitoring, measurements are made automatically every few minutes and the information is immediately processed and stored on the internet creating an up to date, long term and detailed record.
 
-## Why is real time monitoring important?
+### Why is real time monitoring important?
 
 Streams are very sensitive to weather and pollution events. These events can occur over a very short time, often after a few hours or minutes the event is over. Monthly sampling will miss most important events that occur in your stream.
 With real time monitoring:
