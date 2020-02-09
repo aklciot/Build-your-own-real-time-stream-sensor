@@ -1,5 +1,5 @@
 // **********************************************************************************
-// INNOVATE AUCKLAND Water Quality EC Sensor Version 2.3
+// INNOVATE AUCKLAND Water Quality EC Sensor Version 2.4
 // EZO-ECTM Embedded Conductivity Circuit Conductivity = μS/cm
 // Adafruit featherM0 with LoRa RFM95, Dallas 18B20 sensors and sleepydog power management
 // Includes 2X Dallas 18B20 digital Air and Water temperature sensors
