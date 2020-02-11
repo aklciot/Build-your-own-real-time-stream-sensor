@@ -44,3 +44,15 @@ With real time monitoring:
 <b>See the effect of restoration work.</b>  The sensor creates long term trend data. The improvements made by restoration work can be shown over time.</br>
 <b>You can learn more about your stream and others.</b> Combing your data with the work done by others can lead to new insights previously unavailable.</br>
 
+## Change Log
+- Version 2.4 Published to GitHub
+- Version 2.3 Added MOSFET power control and grove ultrasonic sensor and library
+- Version 2.2 Added EC K type Calibration to loop
+- Version 2.1 Added f_ec = atof(EC); to convert char to float to resolve radio send fault
+- Version 2.0 Installed Atlas Scientific EC K=0.1 sensor and EZO circuit.
+- Version 1.3 Installed grove ultrasonic to improve power usage.
+- Version 1.2 Changed to default LoRa radio spreading factor
+- Version 1.1 Corrected water temperature and EC calculation
+- Version 1.0 Initial Build
+
+
