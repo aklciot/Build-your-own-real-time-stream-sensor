@@ -46,7 +46,7 @@ With real time monitoring:
 
 ## Change Log
 - Version 2.4 Published to GitHub
-- Version 2.3 Added MOSFET power control and grove ultrasonic sensor and library
+- Version 2.3 Added MOSFET power control and grove ultrasonic sensor
 - Version 2.2 Added EC K type Calibration to loop
 - Version 2.1 Added f_ec = atof(EC); to convert char to float to resolve radio send fault
 - Version 2.0 Installed Atlas Scientific EC K=0.1 sensor and EZO circuit.
