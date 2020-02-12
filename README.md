@@ -2,7 +2,7 @@
 
 # StreamECSensor
 Build your own automated water quality EC sensor and transmit the data over LoRa radio.
-View a live exmaple here: 
+<br>View a live exmaple here: 
 http://bit.ly/34kSPYD
 
 
