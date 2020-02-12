@@ -1,8 +1,7 @@
 <img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_Medium.png" align="middle" height="75"/>
 
 # StreamECSensor
-Build your own automated water quality EC sensor
-
+Build your own automated water quality EC sensor and transmit the data over LoRa radio
 
 
 ## Compiling and loading
@@ -43,6 +42,22 @@ With real time monitoring:
 <b>Create positive behaviours.</b> We all change how we behave if we know we’re being watched.  With the stream monitor people become aware that dumping and faults are more likely to be detected.</br>
 <b>See the effect of restoration work.</b>  The sensor creates long term trend data. The improvements made by restoration work can be shown over time.</br>
 <b>You can learn more about your stream and others.</b> Combing your data with the work done by others can lead to new insights previously unavailable.</br>
+
+### How does the stream sensor work?
+The sensor is intended to detect acute discharge events into urban waterways that would otherwise go unnoticed. 
+It works by monitoring the water electrical conductivity (EC), temperature, and water level. 
+Every few minutes the sensor sends data over <a href="https://en.wikipedia.org/wiki/LoRa" target="_blank">LoRa radio</a> to the internet where the time is recorded and the data is processed and stored. 
+This sensor is based on low cost open source technology and as such is not a scientific grade water quality meter, however it is good enough to give meaningful information and warnings and let you know when it is time to take a closer look. 
+To keep the cost (and maintenance) down, it does not currently monitor other stream health metrics such as dissolved oxygen (DO), pH, Phosphates, bacteria and nutrients.  Some of these will be added in the future though.
+
+### What is EC (Electrical Conductivity in water)?
+EC or Electrical Conductivity of water is its ability to conduct an electric current. Salts or other chemicals that dissolve in water can break down into positively and negatively charged ions. These free ions in the water conduct electricity, so the water electrical conductivity depends on the concentration of ions. 
+Salinity and total dissolved solids (TDS) are used to calculate the EC of water, which helps to indicate the water’s purity. 
+The purer the water the lower the conductivity. To give a real-life example, distilled water is almost an insulator, but saltwater is a very efficient electrical conductor.
+<br>
+<br>
+The system includes the ability to alert on threshold events by SMS text, email or twitter. Data can also be extracted or forwarded to other systems for modeling and trending analysis.
+<br>
 
 ## Change Log
 - Version 2.4 Published to GitHub
