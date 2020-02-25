@@ -1,6 +1,6 @@
 <img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_Medium.png" align="middle" height="75"/>
 
-# Stream EC Sensor
+# Stream Water EC, Temperature and Level Sensor
 Build your own automated water quality EC sensor and transmit the data over LoRa radio.
 <br>View a live example here: 
 http://bit.ly/34kSPYD
@@ -17,7 +17,7 @@ The following libraries are required:
 - OneWire.h (connects data for the dallas sensor)
 - DallasTemperature.h (DS18B20 digital thermometer)
 - Adafruit_SleepyDog.h  (Power management)
-- RH_RF95.h (Hope radio LoRa driver)
+- RH_RF95.h (Radiohead driver for the Hope LoRa radio)
 - Ultrasonic.h (driver for the grove ultrasonic sensor)
 
 ### PLEASE NOTE:
