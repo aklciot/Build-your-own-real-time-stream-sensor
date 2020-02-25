@@ -1,10 +1,13 @@
 <img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_Medium.png" align="middle" height="75"/>
 
-# StreamECSensor
+# Stream EC Sensor
 Build your own automated water quality EC sensor and transmit the data over LoRa radio.
-<br>View a live exmaple here: 
+<br>View a live example here: 
 http://bit.ly/34kSPYD
 
+## User Guide
+Please read the user guide included here to learn about the sensor installation and operation.
+https://github.com/aklciot/StreamECSensor/blob/master/USER_GUIDE_WaterEC_Sensor_0.8.8.pdf
 
 
 ## Compiling and loading
