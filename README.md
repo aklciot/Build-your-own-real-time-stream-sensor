@@ -1,6 +1,6 @@
 <img src="https://github.com/aklciot/StreamECSensor/blob/master/InnovateAuckland_Medium.png" align="middle" height="75"/>
 
-# Stream EC Sensor
+# Stream Water EC, Temperature and Level Sensor
 Build your own automated water quality EC sensor and transmit the data over LoRa radio.
 <br>View a live example here: 
 http://bit.ly/34kSPYD
