@@ -5,6 +5,9 @@ Build your own automated water quality EC sensor and transmit the data over LoRa
 <br>View a live exmaple here: 
 http://bit.ly/34kSPYD
 
+## User Guide
+Please read the user guide included here to learn about the sensor installation and operation.
+https://github.com/aklciot/StreamECSensor/blob/master/USER_GUIDE_WaterEC_Sensor_0.8.8.pdf
 
 
 ## Compiling and loading
