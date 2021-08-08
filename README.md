@@ -3,7 +3,18 @@
 # Stream Water EC, Temperature and Level Sensor
 Build your own automated water quality EC sensor and transmit the data over LoRa radio.
 <br>View a live example here: 
-http://bit.ly/34kSPYD
+https://thingsboard.innovateauckland.nz/dashboard/28a59570-c8a9-11ea-a129-5da81effbbe6?publicId=6622f130-202b-11ea-93f1-45f1eb9a31da
+
+## Selection Criteria for Stream EC Sensor Location:
+
+1.	Fresh water only, non-tidal. The EC 0.1 K sensor is not suited to saltwater.
+2.	An active community group willing to periodically check on the sensor, take samples and photographs when events happen and as required
+3.	If the sensor will also measure water height, an over water mounting location not exceeding 2.5M above normal water level, this is because the max sonar range is 3.5 Meters
+4.	An EC sensor tether location that allows the sensor to move freely in or near the main flow. The sensor cable is around 4 metres in length. This way, water flow automatically maintains a consistent sensor location.
+5.	A network gateway location with line of sight 1-2Km of the sensing location.
+6.	Ability to easily access the senor unit for maintenance, cleaning and battery changes.
+7.	Protecting the sensor in public locations. It is preferrable to locate the sensor for good measurement over avoiding theft or vandalism.  Consider how to disguise or cover the senor in areas that are accessible by the public.
+
 
 ## User Guide
 Please read the user guide included here to learn about the sensor installation and operation.
