@@ -3,7 +3,7 @@
 # Stream Water EC, Temperature and Level Sensor
 Build your own automated water quality EC sensor and transmit the data over LoRa radio.
 <br>View a live example here: 
-https://thingsboard.innovateauckland.nz/dashboard/28a59570-c8a9-11ea-a129-5da81effbbe6?publicId=6622f130-202b-11ea-93f1-45f1eb9a31da
+https://live.innovateauckland.nz/dashboard/28a59570-c8a9-11ea-a129-5da81effbbe6?publicId=6622f130-202b-11ea-93f1-45f1eb9a31da
 
 ## Selection Criteria for Stream EC Sensor Location:
 
